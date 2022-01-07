@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hello_movie/static/css/main.0aee31a5.css",
-    "main.js": "/hello_movie/static/js/main.e831081e.js",
+    "main.js": "/hello_movie/static/js/main.7d208092.js",
     "index.html": "/hello_movie/index.html",
     "main.0aee31a5.css.map": "/hello_movie/static/css/main.0aee31a5.css.map",
-    "main.e831081e.js.map": "/hello_movie/static/js/main.e831081e.js.map"
+    "main.7d208092.js.map": "/hello_movie/static/js/main.7d208092.js.map"
   },
   "entrypoints": [
     "static/css/main.0aee31a5.css",
-    "static/js/main.e831081e.js"
+    "static/js/main.7d208092.js"
   ]
 }
